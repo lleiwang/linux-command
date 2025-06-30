@@ -15,6 +15,39 @@
 
 当前仓库搜集了 600 多个 Linux 命令，是一个非盈利性的仓库，生成了一个 web 网站方便使用，目前网站没有任何广告，内容包含 Linux 命令手册、详解、学习，内容来自网络和网友的补充，非常值得收藏的 Linux 命令速查手册。版权归属原作者，对任何法律问题及风险不承担任何责任，没有任何商业目的，如果认为侵犯了您的版权，请来信告知。我不能完全保证内容的正确性。通过使用本站内容带来的风险与我无关。当使用本站时，代表您已接受了本站的使用条款和隐私条款。
 
+## 赞助支持
+
+非常感谢一直以来支持我开源项目的朋友们！如果您认可我的工作，欢迎通过 [赞助](https://wangchujiang.com/#/sponsor) 我或下载并使用我开发的 [macOS 应用](https://wangchujiang.com/#/app) 来支持我。以下是我个人独立开发的 macOS 应用列表：
+
+<p style="display: inline-block">
+  <a target="_blank" href="https://apps.apple.com/app/Vidwall/6747587746" title="Vidwall for macOS"><img align="center" alt="Vidwall" height="52" width="52" src="https://github.com/user-attachments/assets/7b5df70a-ed91-4d4b-85be-f00e60a09ce9"></a>
+  <a target="_blank" href="https://wangchujiang.com/mousio-hint/" title="Mousio Hint for macOS"><img align="center" alt="Mousio Hint" height="52" width="52" src="https://github.com/user-attachments/assets/3c0af128-0cef-44e5-a8db-4741dc5a6690"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6746747327" title="Mousio for macOS"><img align="center" alt="Mousio" height="52" width="52" src="https://github.com/user-attachments/assets/9edf61ff-5a6c-4676-9cc2-8fd3c1ad0dfb"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6745227444" title="Musicer for macOS"><img align="center" alt="Musicer" height="52" width="52" src="https://github.com/user-attachments/assets/b7abfba8-88ff-4c86-a125-43073d5aef22"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6743841447" title="Audioer for macOS"><img align="center" alt="Audioer" height="52" width="52" src="https://github.com/user-attachments/assets/7a836865-8c90-4119-87bc-19e06a76c957"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6744690194" title="FileSentinel for macOS"><img align="center" alt="FileSentinel" height="52" width="52" src="https://github.com/user-attachments/assets/28bce2cc-290e-45bf-9068-585ff6ecafe9"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6743495172" title="FocusCursor for macOS"><img align="center" alt="FocusCursor" height="52" width="52" src="https://github.com/user-attachments/assets/d543668a-737b-4853-a6bb-eaa269e69836"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6742680573" title="Videoer for macOS"><img align="center" alt="Videoer" height="52" width="52" src="https://github.com/user-attachments/assets/10ffb0f1-0625-40d6-93f1-2c2496592595"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6740425504" title="KeyClicker for macOS"><img align="center" alt="KeyClicker" height="52" width="52" src="https://github.com/user-attachments/assets/5a19fcb9-cb81-4855-b4ea-31c604d9612a"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6739052447" title="DayBar for macOS"><img align="center" alt="DayBar" height="52" width="52" src="https://github.com/user-attachments/assets/b67d4a2e-92e2-4d8c-8c6f-2a1eb3e2fa93"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6739444407" title="Iconed for macOS"><img align="center" alt="Iconed" height="52" width="52" src="https://github.com/user-attachments/assets/8a35dc7b-4faf-4e2a-9311-f66d6844a896"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6737160756" title="RightMenu Master for macOS"><img align="center" alt="RightMenu Master" height="52" width="52" src="https://github.com/user-attachments/assets/39a76541-71bf-4de7-a01c-c62f0557dff5"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6723903021" title="Paste Quick for macOS"><img align="center" alt="Quick RSS" height="52" width="52" src="https://github.com/user-attachments/assets/bdaad5b7-9810-44ce-8f17-8410864465d2"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6670696072" title="Quick RSS for macOS/iOS"><img align="center" alt="Quick RSS" height="52" width="52" src="https://github.com/user-attachments/assets/374106b5-a448-4d1d-9ccb-b04b6bc681ed"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6670167443" title="Web Serve for macOS"><img align="center" alt="Web Serve" height="52" width="52" src="https://github.com/user-attachments/assets/e1d9f76f-0f3d-4ba5-8a15-253ee173bb1c"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6503953628" title="Copybook Generator for macOS/iOS"><img align="center" alt="Copybook Generator" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/b90e42ff-158b-4534-82ca-5898fd0e8d73"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6471227008" title="DevTutor for macOS/iOS"><img align="center" alt="DevTutor for SwiftUI" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/f15c154d-0192-48eb-8e0e-9e245ffd974a"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6479819388" title="RegexMate for macOS/iOS"><img align="center" alt="RegexMate" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/aabe5aa9-9a96-4390-8bed-c3e4023d0dea"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6479194014" title="Time Passage for macOS/iOS"><img align="center" alt="Time Passage" height="52" width="52" src="https://github.com/jaywcjlove/time-passage/assets/1680273/6f30e429-e6f3-4dbe-9921-a5effe2a05e9"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6478772538" title="IconizeFolder for macOS"><img align="center" alt="Iconize Folder" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/fa9d8b9c-1e51-4ded-877c-fa5b21c47220"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6478511402" title="Textsound Saver for macOS/iOS"><img align="center" alt="Textsound Saver" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/0595e842-980b-4574-8891-a8ba853a08be"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6476924627" title="Create Custom Symbols for macOS"><img align="center" alt="Create Custom Symbols" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6476452351" title="DevHub for macOS"><img align="center" alt="DevHub" height="52" width="52" src="https://github.com/user-attachments/assets/4a44a4fd-67ce-430b-af0a-72f18feaa47d"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6476400184" title="Resume Revise for macOS"><img align="center" alt="Resume Revise" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c9954a20-1905-48de-bdf8-d71837974aa2"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6472593276" title="Palette Genius for macOS"><img align="center" alt="Palette Genius" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/27340413-d355-45b2-8f6f-6ac37682d957"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6470879005" title="Symbol Scribe for macOS"><img align="center" alt="Symbol Scribe" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c7249f05-fa70-4def-a1e9-571d5f171fc9"></a>
+</p>
+
 ## Web 版本
 
 [Github Web](http://jaywcjlove.github.io/linux-command/) | [Gitee Web](http://jaywcjlove.gitee.io/linux-command/) | [Githack](https://raw.githack.com/jaywcjlove/linux-command/gh-pages/index.html) | [Statically](https://cdn.statically.io/gh/jaywcjlove/linux-command/gh-pages/index.html)
@@ -33,13 +66,40 @@
 
 ⚠️ 你们拿过去部署的静态网站，还是希望挂个 GitHub 地址，这样大家共同维护命令文档，让文档更加完善，更加丰富，当然你删除本站所有信息相关信息，其实我也不太在意，默认允许你们随意搞，我不负任何负责。如果您也部署了一份，可以将网址放到下面 :)。
 
+由于中国国内访问，时常打不开，你可以访问下面镜像网站(国内打不开的不再收录)。推荐自己的[镜像网站 #649](https://github.com/jaywcjlove/linux-command/issues/649)
+
 **推荐使用的镜像 web 版本**
 
-[**`linuxsearch.largeinfo.cc`**](http://linuxsearch.largeinfo.cc)，[**`srebro.cn`**](https://linux.srebro.cn/)，[**`getaifun.com`**](https://getaifun.com/linux)，[**`linux.devonline.net`**](http://linux.devonline.net/)，[**`man.zch.ooo`**](https://man.zch.ooo/)，[**`linux.mmoke.com`**](https://linux.mmoke.com)，[**`bqrdh.com`**](https://tools.bqrdh.com/linux-command/)，[**`linux.zyimm.com`**](http://linux.zyimm.com/)，[**`linux.vovuo.com`**](https://linux.vovuo.com/)，[`linux.liguiying.cn`](https://linux.liguiying.cn/), [`renye.net`](https://renye.net/), [`diqi.org`](https://diqi.org/)，[`linux.alistnas.top`](https://linux.alistnas.top/)，[`nenufm.com`](https://www.nenufm.com/linux-command/), [`linux.jiangyang.online`](https://linux.jiangyang.online/)
+[**`linuxsearch.largeinfo.cc`**](http://linuxsearch.largeinfo.cc)
+[**`srebro.cn`**](https://linux.srebro.cn/)
+[**`getaifun.com`**](https://getaifun.com/linux)
+[**`linux.devonline.net`**](http://linux.devonline.net/)
+[**`man.zch.ooo`**](https://man.zch.ooo/)
+[**`linux.mmoke.com`**](https://linux.mmoke.com)
+[**`bqrdh.com`**](https://tools.bqrdh.com/linux-command/)
+[**`linux.zyimm.com`**](http://linux.zyimm.com/)
+[**`linux.vovuo.com`**](https://linux.vovuo.com/)
+[`linux.liguiying.cn`](https://linux.liguiying.cn/)
+[`renye.net`](https://renye.net/)
+[`diqi.org`](https://diqi.org/)
+[`linux.alistnas.top`](https://linux.alistnas.top/)
+[`nenufm.com`](https://www.nenufm.com/linux-command/)
+[`linux.jiangyang.online`](https://linux.jiangyang.online/)
 
 **其它 web 版本**
 
-[`linux.ftqq.com`](https://linux.ftqq.com/)，[`linux.gaomeluo.com`](https://linux.gaomeluo.com)，[`atoolbox.net`](http://www.atoolbox.net/Tool.php?Id=826)，[`xiaoshanseo.com`](https://tools.xiaoshanseo.com/Tools/linux-command/)，[`262235.xyz`](https://262235.xyz/linux-command/)，[`cmsblogs.cn`](https://linux.cmsblogs.cn/)，[`loquy.cn`](https://www.loquy.cn/linux-command/)，[`buyao.vip`](https://demo.buyao.vip/linux/)，[`hezhiqiang.gitbook.io`](https://hezhiqiang.gitbook.io/linux/)，[`utils.fun`](https://linux.utils.fun/), [`51tools.info`](https://51tools.info/linux/)
+[`lylme.com`](https://linux.lylme.com/)
+[`linux.ftqq.com`](https://linux.ftqq.com/)
+[`linux.gaomeluo.com`](https://linux.gaomeluo.com)
+[`atoolbox.net`](http://www.atoolbox.net/Tool.php?Id=826)
+[`xiaoshanseo.com`](https://tools.xiaoshanseo.com/Tools/linux-command/)
+[`262235.xyz`](https://262235.xyz/linux-command/)
+[`cmsblogs.cn`](https://linux.cmsblogs.cn/)
+[`loquy.cn`](https://www.loquy.cn/linux-command/)
+[`buyao.vip`](https://demo.buyao.vip/linux/)
+[`hezhiqiang.gitbook.io`](https://hezhiqiang.gitbook.io/linux/)
+[`utils.fun`](https://linux.utils.fun/)
+[`51tools.info`](https://51tools.info/linux/)
 
 ## 其它版本
 
@@ -53,7 +113,7 @@
 - [`@chenjiandongx/how`](https://github.com/chenjiandongx/how) Python 版 [#129](https://github.com/jaywcjlove/linux-command/issues/129)，由 [**@陈键冬**](https://github.com/chenjiandongx) 提供
 - [`@chenjiandongx/pls`](https://github.com/chenjiandongx/pls) Golang 版 [#129](https://github.com/jaywcjlove/linux-command/issues/129)，由 [**@陈键冬**](https://github.com/chenjiandongx) 提供
 
-## Docker
+## Docker 部署
 
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/linux-command?logo=docker)](https://hub.docker.com/r/wcjiang/linux-command) [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/wcjiang/linux-command?logo=docker)](https://hub.docker.com/r/wcjiang/linux-command) [![Docker Pulls](https://img.shields.io/docker/pulls/wcjiang/linux-command?logo=docker)](https://hub.docker.com/r/wcjiang/linux-command)
 
@@ -61,16 +121,12 @@
 
 ```bash
 docker pull wcjiang/linux-command
-# Or
-docker pull ghcr.io/jaywcjlove/linux-command:latest
 ```
 
 ```bash
 docker run --name linux-command --rm -d -p 9665:3000 wcjiang/linux-command:latest
 # Or
 docker run --name linux-command -itd -p 9665:3000 wcjiang/linux-command:latest
-# Or
-docker run --name linux-command -itd -p 9665:3000 ghcr.io/jaywcjlove/linux-command:latest
 ```
 
 在浏览器中访问以下 URL
@@ -293,7 +349,8 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 
 一如既往，感谢我们出色的贡献者！
 
-<!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT--><a href="https://github.com/jaywcjlove" title="小弟调调"><img src="https://avatars.githubusercontent.com/u/1680273?v=4" width="42;" alt="小弟调调"/></a>
+<!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-->
+<a href="https://github.com/jaywcjlove" title="小弟调调"><img src="https://avatars.githubusercontent.com/u/1680273?v=4" width="42;" alt="小弟调调"/></a>
 <a href="https://github.com/ZhuangZhu-74" title="ZhuangZhu-74"><img src="https://avatars.githubusercontent.com/u/49544524?v=4" width="42;" alt="ZhuangZhu-74"/></a>
 <a href="https://github.com/renovate-bot" title="Mend Renovate"><img src="https://avatars.githubusercontent.com/u/25180681?v=4" width="42;" alt="Mend Renovate"/></a>
 <a href="https://github.com/huckhuang" title="Huck Huang"><img src="https://avatars.githubusercontent.com/u/23023193?v=4" width="42;" alt="Huck Huang"/></a>
@@ -424,7 +481,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/MinsonLee" title="MinsonLee"><img src="https://avatars.githubusercontent.com/u/22138919?v=4" width="42;" alt="MinsonLee"/></a>
 <a href="https://github.com/pplmx" title="Mystic"><img src="https://avatars.githubusercontent.com/u/26994103?v=4" width="42;" alt="Mystic"/></a>
 <a href="https://github.com/Zhengqbbb" title="Q.Ben Zheng"><img src="https://avatars.githubusercontent.com/u/40693636?v=4" width="42;" alt="Q.Ben Zheng"/></a>
-<a href="https://github.com/apnpc" title="Alan"><img src="https://avatars.githubusercontent.com/u/39884597?v=4" width="42;" alt="Alan"/></a>
+<a href="https://github.com/apnpc" title="PanHeng"><img src="https://avatars.githubusercontent.com/u/39884597?v=4" width="42;" alt="PanHeng"/></a>
 <a href="https://github.com/Azroys" title="azroy"><img src="https://avatars.githubusercontent.com/u/73465351?v=4" width="42;" alt="azroy"/></a>
 <a href="https://github.com/cy920820" title="Cui Yang"><img src="https://avatars.githubusercontent.com/u/21211512?v=4" width="42;" alt="Cui Yang"/></a>
 <a href="https://github.com/DaYangtuo247" title="DaYangtuo247"><img src="https://avatars.githubusercontent.com/u/73392515?v=4" width="42;" alt="DaYangtuo247"/></a>
@@ -471,7 +528,10 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/iwangjie" title="Na Meng"><img src="https://avatars.githubusercontent.com/u/23075587?v=4" width="42;" alt="Na Meng"/></a>
 <a href="https://github.com/wingrez" title="Wingrez"><img src="https://avatars.githubusercontent.com/u/31106425?v=4" width="42;" alt="Wingrez"/></a>
 <a href="https://github.com/XBGzZ" title="XBG"><img src="https://avatars.githubusercontent.com/u/66010822?v=4" width="42;" alt="XBG"/></a>
-<a href="https://github.com/XD-DENG" title="Xiaodong DENG"><img src="https://avatars.githubusercontent.com/u/11539188?v=4" width="42;" alt="Xiaodong DENG"/></a><!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-END-->
+<a href="https://github.com/XD-DENG" title="Xiaodong DENG"><img src="https://avatars.githubusercontent.com/u/11539188?v=4" width="42;" alt="Xiaodong DENG"/></a>
+
+
+<!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-END-->
 
 贡献者列表，由 [contributors](https://github.com/jaywcjlove/github-action-contributors) 自动生成
 
